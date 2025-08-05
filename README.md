@@ -18,7 +18,15 @@ Two players take turns placing Xs and Os on a 3x3 board until there's a winner o
 ##  Technologies Used
 - Python 3
 
----
+playing board
+
+ 1 | 2 | 3  
+-----------
+ 4 | 5 | 6  
+-----------
+ 7 | 8 | 9  
+
+ Player X, choose a position (1–9):
 
 
 
